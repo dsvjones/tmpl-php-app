@@ -1,0 +1,4 @@
+services:
+  php-app:
+    image: dsvj/phpapp
+    build: ./.docker/
